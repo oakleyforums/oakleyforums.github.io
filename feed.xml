@@ -1,30 +1,76 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>OakleyForums.com - Dedicated to Oakley Sunglasses and Products! </title>
+    <description>Clearing out my Oakley Collection</description>
+    <link>https://www.OakleyForums.com/</link>
+    <atom:link href="https://www.OakleyForums.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 03 Mar 2023 17:02:45 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Mar 2023 17:02:45 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Oakley Zero L Sunglasses</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.ebay.com/itm/155436861269&quot;&gt;Oakley Zero L Black Sunglasses&lt;/a&gt; These are a pair of new sunglasses with the original box, there is a small nick in the lens visible in Ebay photos, but otherwise brand new. No bag included.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ebay.com/itm/155436861269&quot;&gt;You can purchase them via my eBay auction&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Mar 2023 11:00:15 +0000</pubDate>
+        <link>https://www.OakleyForums.com/oakley-zero-l-sunglasses</link>
+        <guid isPermaLink="true">https://www.OakleyForums.com/oakley-zero-l-sunglasses</guid>
+        
+        
+        <category>Oakley</category>
+        
+        <category>Sunglasses</category>
+        
+        <category>Zero</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Oakley Gascan Flying Tiger Sunglasses</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.ebay.com/itm/155436861269&quot;&gt;Oakley Gascan Flying Tigers Matte Sand Dark Bronze + Pin 12-784 New In Box Rare&lt;/a&gt; These are a pair of glasses with the original box and I believe all materials and products that come in the box. They are brand new.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ebay.com/itm/155436861269&quot;&gt;You can purchase them via my eBay auction&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Mar 2023 10:00:15 +0000</pubDate>
+        <link>https://www.OakleyForums.com/oakley-gascan-flying-tiger</link>
+        <guid isPermaLink="true">https://www.OakleyForums.com/oakley-gascan-flying-tiger</guid>
+        
+        
+        <category>Oakley</category>
+        
+        <category>Sunglasses</category>
+        
+        <category>Gascan</category>
+        
+      </item>
+    
+      <item>
+        <title>Oakley Gascan Flying Tiger Sunglasses</title>
+        <description>&lt;h2 id=&quot;sold&quot;&gt;SOLD&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ebay.com/itm/155402175662&quot;&gt;Oakley Thump Pro 1GB&lt;/a&gt; These are a pair of glasses with the original box and I believe all materials and products that come in the box. They are essentially brand new, I did plug them in and charge them to make sure that they work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ebay.com/itm/155402175662&quot;&gt;You can purchase them via my eBay auction&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Feb 2023 10:00:15 +0000</pubDate>
+        <link>https://www.OakleyForums.com/oakley-thump-pro-1gb-open</link>
+        <guid isPermaLink="true">https://www.OakleyForums.com/oakley-thump-pro-1gb-open</guid>
+        
+        
+        <category>Oakley</category>
+        
+        <category>Sunglasses</category>
+        
+        <category>Thump</category>
+        
+        <category>MP3</category>
+        
+        <category>Sold</category>
+        
+      </item>
+    
   </channel>
 </rss>

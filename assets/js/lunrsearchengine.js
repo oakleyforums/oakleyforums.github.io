@@ -1,25 +1,55 @@
----
-layout: null
-sitemap: false
----
 
-{% assign counter = 0 %}
-var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' or page.url contains 'category' or page.url contains 'tag' %}{% else %}{
-    "id": {{ counter }},
-    "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
-    "title": "{{ page.title }}",
-    "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
-    }, {% endif %}{% endfor %}{% for page in site.without-plugin %}{
-    "id": {{ counter }},
-    "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
-    "title": "{{ page.title }}",
-    "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
-    }, {% endfor %}{% for page in site.posts %}{
-    "id": {{ counter }},
-    "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
-    "title": "{{ page.title }}",
-    "body": "{{ page.date | date: "%Y/%m/%d" }} - {{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
-    }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}];
+var documents = [{
+    "id": 0,
+    "url": "https://www.OakleyForums.com/404.html",
+    "title": "404",
+    "body": "404 Page does not exist!Please use the search bar at the top or visit our homepage! "
+    }, {
+    "id": 1,
+    "url": "https://www.OakleyForums.com/about",
+    "title": "About OakleyForums.com",
+    "body": " OakleyForums. com is a sample blog template from Chris Hammond With the open source repository available on GitHub, you can easily fork the repository and create your own blog/website using GitHub Pages for hosting. Learn how to use OakleyForums "
+    }, {
+    "id": 2,
+    "url": "https://www.OakleyForums.com/categories",
+    "title": "Categories",
+    "body": ""
+    }, {
+    "id": 3,
+    "url": "https://www.OakleyForums.com/",
+    "title": "Home",
+    "body": "      Featured:                                                                                                                                                                                                             Oakley Zero L Sunglasses                              :               Oakley Zero L Black Sunglasses These are a pair of new sunglasses with the original box, there is a small nick in the lens visible. . . :                                                                       03 Mar 2023                                                                                                                                                                                                                                                                                                                    Oakley Gascan Flying Tiger Sunglasses                              :               Oakley Gascan Flying Tigers Matte Sand Dark Bronze + Pin 12-784 New In Box Rare These are a pair of glasses with the original box. . . :                                                                       03 Mar 2023                                                                                                                                                                                                                                                                                                                    Oakley Gascan Flying Tiger Sunglasses                              :               SOLD:                                                                       15 Feb 2023                                                                                                                      All Stories:                                                                               Oakley Zero L Sunglasses              :       Oakley Zero L Black Sunglasses These are a pair of new sunglasses with the original box, there is a small nick in the lens visible in Ebay photos, but otherwise. . . :                               03 Mar 2023                                                                                                              Oakley Gascan Flying Tiger Sunglasses              :       Oakley Gascan Flying Tigers Matte Sand Dark Bronze + Pin 12-784 New In Box Rare These are a pair of glasses with the original box and I believe all materials. . . :                               03 Mar 2023                                                                                                              Oakley Gascan Flying Tiger Sunglasses              :       SOLD:                               15 Feb 2023                                            "
+    }, {
+    "id": 4,
+    "url": "https://www.OakleyForums.com/About",
+    "title": "",
+    "body": ""
+    }, {
+    "id": 5,
+    "url": "https://www.OakleyForums.com/redirects.json",
+    "title": "",
+    "body": "{“/About”:”https://www. oakleyforums. com/about”} "
+    }, {
+    "id": 6,
+    "url": "https://www.OakleyForums.com/robots.txt",
+    "title": "",
+    "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
+    }, {
+    "id": 7,
+    "url": "https://www.OakleyForums.com/oakley-zero-l-sunglasses",
+    "title": "Oakley Zero L Sunglasses",
+    "body": "2023/03/03 - Oakley Zero L Black Sunglasses These are a pair of new sunglasses with the original box, there is a small nick in the lens visible in Ebay photos, but otherwise brand new. No bag included. You can purchase them via my eBay auction. "
+    }, {
+    "id": 8,
+    "url": "https://www.OakleyForums.com/oakley-gascan-flying-tiger",
+    "title": "Oakley Gascan Flying Tiger Sunglasses",
+    "body": "2023/03/03 - Oakley Gascan Flying Tigers Matte Sand Dark Bronze + Pin 12-784 New In Box Rare These are a pair of glasses with the original box and I believe all materials and products that come in the box. They are brand new. You can purchase them via my eBay auction. "
+    }, {
+    "id": 9,
+    "url": "https://www.OakleyForums.com/oakley-thump-pro-1gb-open",
+    "title": "Oakley Gascan Flying Tiger Sunglasses",
+    "body": "2023/02/15 - SOLD: Oakley Thump Pro 1GB These are a pair of glasses with the original box and I believe all materials and products that come in the box. They are essentially brand new, I did plug them in and charge them to make sure that they work. You can purchase them via my eBay auction. "
+    }];
 
 var idx = lunr(function () {
     this.ref('id')
