@@ -38,7 +38,7 @@ var documents = [{
     "id": 7,
     "url": "https://www.OakleyForums.com/oakley-zero-l-sunglasses",
     "title": "Oakley Zero L Sunglasses",
-    "body": "2023/03/03 - Oakley Zero L Black Sunglasses These are a pair of new sunglasses with the original box, there is a small nick in the lens visible in Ebay photos, but otherwise brand new. No bag included. You can purchase them via my eBay auction. "
+    "body": "2023/03/03 - Oakley Zero L Black Sunglasses These are a pair of new sunglasses with the original box, there is a small nick in the lens visible in Ebay photos, but otherwise brand new. No bag included. You can purchase them via my eBay auction. More Photos:     "
     }, {
     "id": 8,
     "url": "https://www.OakleyForums.com/oakley-gascan-flying-tiger",
