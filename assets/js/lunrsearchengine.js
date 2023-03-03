@@ -48,7 +48,7 @@ var documents = [{
     "id": 9,
     "url": "https://www.OakleyForums.com/oakley-thump-pro-1gb-open",
     "title": "Oakley Thump Pro 1GB Open box",
-    "body": "2023/02/15 - SOLD: Oakley Thump Pro 1GB These are a pair of glasses with the original box and I believe all materials and products that come in the box. They are essentially brand new, I did plug them in and charge them to make sure that they work. You can purchase them via my eBay auction. "
+    "body": "2023/02/15 - SOLD: Oakley Thump Pro 1GB These are a pair of glasses with the original box and I believe all materials and products that come in the box. They are essentially brand new, I did plug them in and charge them to make sure that they work. You can purchase them via my eBay auction. More Photos:       "
     }];
 
 var idx = lunr(function () {
