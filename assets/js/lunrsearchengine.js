@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "https://www.OakleyForums.com/about",
     "title": "About OakleyForums.com",
-    "body": " OakleyForums. com is a sample blog template from Chris Hammond With the open source repository available on GitHub, you can easily fork the repository and create your own blog/website using GitHub Pages for hosting. Learn how to use OakleyForums "
+    "body": "Coming soon "
     }, {
     "id": 2,
     "url": "https://www.OakleyForums.com/categories",
@@ -43,7 +43,7 @@ var documents = [{
     "id": 8,
     "url": "https://www.OakleyForums.com/oakley-gascan-flying-tiger",
     "title": "Oakley Gascan Flying Tiger Sunglasses",
-    "body": "2023/03/03 - Oakley Gascan Flying Tigers Matte Sand Dark Bronze + Pin 12-784 New In Box Rare These are a pair of glasses with the original box and I believe all materials and products that come in the box. They are brand new. You can purchase them via my eBay auction. "
+    "body": "2023/03/03 - Oakley Gascan Flying Tigers Matte Sand Dark Bronze + Pin 12-784 New In Box Rare These are a pair of glasses with the original box and I believe all materials and products that come in the box. They are brand new. You can purchase them via my eBay auction. More Photos:       "
     }, {
     "id": 9,
     "url": "https://www.OakleyForums.com/oakley-thump-pro-1gb-open",
