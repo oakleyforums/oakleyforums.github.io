@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oakley Gascan Flying Tiger Sunglasses
+title: Oakley Thump Pro 1GB Open box
 date: '2023-02-15T10:00:15+00:00'
 permalink: oakley-thump-pro-1gb-open
 image: thumppro_sq.jpg
