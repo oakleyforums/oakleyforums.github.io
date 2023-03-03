@@ -10,6 +10,9 @@ Perhaps you want to purchase some Oakley Sunglasses? You can do that using the l
 
 [Oakley Gascan Flying Tigers Matte Sand Dark Bronze + Pin 12-784 New In Box Rare](https://www.ebay.com/itm/155436861269) These are a pair of glasses with the original box and I believe all materials and products that come in the box. They are brand new.
 
+![Oakley Zero L Black Sunglasses](/images/zeroL.jpg)
+
+[Oakley Zero L Black Sunglasses](https://www.ebay.com/itm/155436861269) These are a pair of new sunglasses with the original box, there is a small nick in the lens visible in Ebay photos, but otherwise brand new. No bag included.
 
 
 ## Previously Sold
