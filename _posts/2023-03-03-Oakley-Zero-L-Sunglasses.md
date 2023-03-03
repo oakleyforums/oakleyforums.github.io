@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Oakley Zero L Sunglasses
+description: Oakley Zero L Sunglasses for sale, available on eBay. 
+keywords: oakley, zero, zero l, sunglasses, black
 date: '2023-03-03T11:00:15+00:00'
 permalink: oakley-zero-l-sunglasses
 image: zerol/zerol-2.jpg
