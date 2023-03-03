@@ -3,7 +3,7 @@ layout: post
 title: Oakley Zero L Sunglasses
 date: '2023-03-03T11:00:15+00:00'
 permalink: oakley-zero-l-sunglasses
-image: zeroL.jpg
+image: zerol/zerol-2.jpg
 categories: [ Oakley, Sunglasses, Zero ]
 featured: true
 comments: false 
@@ -12,3 +12,13 @@ comments: false
 
 
 [You can purchase them via my eBay auction](https://www.ebay.com/itm/155436861269).
+
+## More Photos
+{% picture zerol/zerol-1.jpg --alt {{ page.title}}  %}
+{% picture zerol/zerol-2.jpg --alt {{ page.title}}  %}
+{% picture zerol/zerol-3.jpg --alt {{ page.title}}  %}
+{% picture zerol/zerol-4.jpg --alt {{ page.title}}  %}
+{% picture zerol/zerol-5.jpg --alt {{ page.title}}  %}
+{% picture zerol/zerol-6.jpg --alt {{ page.title}}  %}
+{% picture zerol/zerol-7.jpg --alt {{ page.title}}  %}
+{% picture zerol/zerol-8.jpg --alt {{ page.title}}  %}
