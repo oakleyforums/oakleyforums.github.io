@@ -3,7 +3,7 @@ layout: post
 title: Oakley Big Taco Sunglasses Polished Rootbeer Tungsten Iridium Lens
 description: Oakley Big Taco Sunglasses for sale, available on eBay. 
 keywords: oakley, big taco, sunglasses, rootbeer
-date: '2023-03-08T13:00:15+00:00'
+date: '2023-03-08T11:00:00+00:00'
 permalink: oakley-big-taco-sunglasses
 image: bigtaco/bigtaco-1.jpg
 categories: [ Oakley, Sunglasses, Big Taco ]
@@ -11,7 +11,6 @@ featured: true
 comments: false 
 ---
 [Oakley Big Taco Sunglasses Polished Rootbeer Tungsten Iridium Lens](https://www.ebay.com/itm/155441459975) These are a pair of new sunglasses with the original box.
-
 
 [You can purchase them via my eBay auction](https://www.ebay.com/itm/155441459975).
 
