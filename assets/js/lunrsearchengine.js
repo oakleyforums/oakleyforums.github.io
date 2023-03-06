@@ -38,7 +38,7 @@ var documents = [{
     "id": 7,
     "url": "https://www.OakleyForums.com/oakley-big-taco-sunglasses",
     "title": "Oakley Big Taco Sunglasses Polished Rootbeer Tungsten Iridium Lens",
-    "body": "2023/03/06 - Oakley Big Taco Sunglasses Polished Rootbeer Tungsten Iridium Lens These are a pair of new sunglasses with the original box. You can purchase them via my eBay auction. More Photos:       "
+    "body": "2023/03/06 - Oakley Big Taco Sunglasses Polished Rootbeer Tungsten Iridium Lens These are a pair of new sunglasses with the original box. You can purchase them via my eBay auction. More Photos:      "
     }, {
     "id": 8,
     "url": "https://www.OakleyForums.com/oakley-zero-l-sunglasses",
