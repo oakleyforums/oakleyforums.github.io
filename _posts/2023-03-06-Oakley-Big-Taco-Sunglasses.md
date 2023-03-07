@@ -26,7 +26,7 @@ Here are some of the top features of Oakley Big Taco sunglasses:
 
 4. Stylish Design: The Big Taco sunglasses feature a bold, rectangular frame that is both stylish and functional. This design is particularly suited to those with larger faces, as it provides ample coverage and protection from the sun's rays.
 
-Overall, Oakley Big Taco sunglasses are the perfect choice for anyone who wants a high-performance, stylish, and comfortable pair of sunglasses. With their polarized lenses, three-point fit, and durable materials, they are sure to become your go-to eyewear for all your outdoor adventures.
+Overall, Oakley Big Taco sunglasses are the perfect choice for anyone who wants a high-performance, stylish, and comfortable pair of sunglasses. With their three-point fit, and durable materials, they are sure to become your go-to eyewear for all your outdoor adventures.
 
 ## More Photos
 {% picture bigtaco/bigtaco-1.jpg --alt {{ page.title}}  %}
