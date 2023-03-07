@@ -5,7 +5,7 @@ description: Oakley Big Taco Sunglasses for sale, available on eBay.
 keywords: oakley, big taco, sunglasses, rootbeer
 date: '2023-03-06T11:00:00+00:00'
 permalink: oakley-big-taco-sunglasses
-image: bigtaco/bigtaco-2.jpg
+image: bigtaco/bigtaco-1.jpg
 categories: [ Oakley, Sunglasses, Big Taco ]
 featured: true
 comments: false 
