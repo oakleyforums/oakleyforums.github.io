@@ -7,7 +7,7 @@ date: '2023-02-15T10:00:15+00:00'
 permalink: oakley-thump-pro-1gb-open
 image: thumppro1gb/thumppro1gb-4.jpg
 categories: [ Oakley, Sunglasses, Thump, MP3, Sold ]
-featured: true
+featured: false
 comments: false 
 ---
 
