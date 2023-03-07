@@ -5,7 +5,7 @@ description: Oakley Thump Pro 1GB Sunglasses for sale, available on eBay.
 keywords: oakley, thump pro, sunglasses, black, mp3
 date: '2023-02-15T10:00:15+00:00'
 permalink: oakley-thump-pro-1gb-open
-image: thumppro1gb/thumppro1gb-4.jpg
+image: thumppro1gb/thumppro1gb-1.jpg
 categories: [ Oakley, Sunglasses, Thump, MP3, Sold ]
 featured: false
 comments: false 
