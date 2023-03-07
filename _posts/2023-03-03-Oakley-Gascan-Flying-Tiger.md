@@ -5,7 +5,7 @@ description: Oakley Gascan Flying Tiger Sunglasses for sale, available on eBay.
 keywords: oakley, gascan, sunglasses, flying tiger
 date: '2023-03-03T10:00:15+00:00'
 permalink: oakley-gascan-flying-tiger
-image: flyingtigergascan/flyingtiger-7.jpg
+image: flyingtigergascan/flyingtiger-6.jpg
 categories: [ Oakley, Sunglasses, Gascan, Sold ]
 featured: true
 comments: false 
