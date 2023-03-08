@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "https://www.OakleyForums.com/about",
     "title": "About OakleyForums.com",
-    "body": "Coming soon "
+    "body": "Welcome to OakleyForums. com. We are a community (of one) of Oakley enthusiasts who love to talk about Oakley sunglasses, watches, and other Oakley products. We are not affiliated with Oakley, Inc. in any way. If you’re looking to buy Oakleys, be sure to check out some of our eBay Auctions. "
     }, {
     "id": 2,
     "url": "https://www.OakleyForums.com/categories",
