@@ -10,7 +10,7 @@ categories: [ Oakley, Sunglasses, Canteen, Black, Matte ]
 featured: true
 comments: false 
 ---
-[Oakley Dartboard White Camo w/ Ti Clear Lens](https://www.ebay.com/itm/155447873278) These are a pair of new sunglasses with the original box. Used oakley bag included.
+[Oakley Canteen Sunglasses Matte Black Warm Grey Lenses 03-543](https://www.ebay.com/itm/155447873278) These are a pair of new sunglasses with the original box. Oakley bag included.
 
 [You can purchase them via my eBay auction](https://www.ebay.com/itm/155447873278).
 
