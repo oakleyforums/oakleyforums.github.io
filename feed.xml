@@ -5,8 +5,8 @@
     <description>Clearing out my Oakley Collection</description>
     <link>https://www.OakleyForums.com/</link>
     <atom:link href="https://www.OakleyForums.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Mar 2023 16:18:49 +0000</pubDate>
-    <lastBuildDate>Sat, 11 Mar 2023 16:18:49 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Mar 2023 17:34:45 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Mar 2023 17:34:45 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -173,9 +173,9 @@
     
       <item>
         <title>Oakley Zero L Sunglasses</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.ebay.com/itm/155436861269&quot;&gt;Oakley Zero L Black Sunglasses&lt;/a&gt; These are a pair of new sunglasses with the original box, there is a small nick in the lens visible in Ebay photos, but otherwise brand new. No bag included.&lt;/p&gt;
+        <description>&lt;h2 id=&quot;sold&quot;&gt;SOLD&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.ebay.com/itm/155436861269&quot;&gt;You can purchase them via my eBay auction&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ebay.com/itm/155436861269&quot;&gt;Oakley Zero L Black Sunglasses&lt;/a&gt; These are a pair of new sunglasses with the original box, there is a small nick in the lens visible in Ebay photos, but otherwise brand new. No bag included.&lt;/p&gt;
 
 &lt;h2 id=&quot;more-photos&quot;&gt;More Photos&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images_out/zerol/zerol-1-800-6ceb734ff.jpg&quot; alt=&quot;Oakley Zero L Sunglasses&quot; srcset=&quot;/assets/images_out/zerol/zerol-1-400-6ceb734ff.jpg 400w, /assets/images_out/zerol/zerol-1-600-6ceb734ff.jpg 600w, /assets/images_out/zerol/zerol-1-800-6ceb734ff.jpg 800w, /assets/images_out/zerol/zerol-1-1000-6ceb734ff.jpg 1000w&quot; /&gt;&lt;/p&gt;
@@ -204,6 +204,8 @@
         <category>Sunglasses</category>
         
         <category>Zero</category>
+        
+        <category>Sold</category>
         
       </item>
     
