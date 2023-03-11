@@ -7,7 +7,7 @@ date: '2023-03-03T11:00:15+00:00'
 permalink: oakley-zero-l-sunglasses
 image: zerol/zerol-2.jpg
 categories: [ Oakley, Sunglasses, Zero, Sold]
-featured: true
+featured: false
 comments: false 
 ---
 ## SOLD 
