@@ -14,6 +14,7 @@ comments: false
 
 [You can purchase them via my eBay auction](https://www.ebay.com/itm/155447873278).
 
+Looking for a stylish and functional pair of sunglasses? Look no further than Oakley Canteen in Matte Black with Grey lenses! These sleek shades not only look great, but they also provide top-notch protection from the sun's harmful rays. With Oakley's signature Plutonite lenses, you can rest assured that your eyes are safe and sound, even on the brightest days. The matte black frame is both durable and lightweight, making these sunglasses perfect for any activity. So why wait? Grab a pair of Oakley Canteen sunglasses today and enjoy the ultimate in style and protection!
 
 ## More Photos
 {% picture OakleyCanteen/OakleyCanteen-1.jpg --alt {{ page.title}}  %}
