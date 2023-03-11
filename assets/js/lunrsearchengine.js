@@ -38,7 +38,7 @@ var documents = [{
     "id": 7,
     "url": "https://www.OakleyForums.com/Oakley-Canteen-Matte-Black",
     "title": "Oakley Canteen Sunglasses Matte Black Warm Grey Lenses 03-543",
-    "body": "2023/03/11 - Oakley Canteen Sunglasses Matte Black Warm Grey Lenses 03-543 These are a pair of new sunglasses with the original box. Oakley bag included. You can purchase them via my eBay auction. More Photos:    "
+    "body": "2023/03/11 - Oakley Canteen Sunglasses Matte Black Warm Grey Lenses 03-543 These are a pair of new sunglasses with the original box. Oakley bag included. You can purchase them via my eBay auction. Looking for a stylish and functional pair of sunglasses? Look no further than Oakley Canteen in Matte Black with Grey lenses! These sleek shades not only look great, but they also provide top-notch protection from the sun’s harmful rays. With Oakley’s signature Plutonite lenses, you can rest assured that your eyes are safe and sound, even on the brightest days. The matte black frame is both durable and lightweight, making these sunglasses perfect for any activity. So why wait? Grab a pair of Oakley Canteen sunglasses today and enjoy the ultimate in style and protection! More Photos:    "
     }, {
     "id": 8,
     "url": "https://www.OakleyForums.com/oakley-dartboard-white-camo",
