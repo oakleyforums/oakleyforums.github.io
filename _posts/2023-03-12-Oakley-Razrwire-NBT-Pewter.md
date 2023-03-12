@@ -5,7 +5,7 @@ description: Oakley Razrwire NBT Pewter 05-836 Sunglasses Sunglasses for sale, a
 keywords: oakley, canteen, sunglasses, black, matte
 date: '2023-03-12T10:30:00+00:00'
 permalink: Oakley-Razrwire-NBT-Pewter
-image: oakleyrazrwirenbtpewter/oakleyrazrwirenbtpewter-5.jpg
+image: oakleyrazrwirenbtpewter/oakleyrazrwirenbtpewter-4.jpg
 categories: [ Oakley, Sunglasses, Razrwire, Pewter, NBT, Black Iridium lens ]
 featured: true
 comments: false 
