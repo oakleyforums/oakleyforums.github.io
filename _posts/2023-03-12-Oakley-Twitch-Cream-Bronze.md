@@ -5,7 +5,7 @@ description: Oakley Twitch Cream Bronze 03-523 Sunglasses Sunglasses for sale, a
 keywords: oakley, canteen, sunglasses, black, matte
 date: '2023-03-12T09:00:00+00:00'
 permalink: Oakley-Canteen-Matte-Black
-image: TwitchCreamBronze/TwitchCreamBronze-5.jpg
+image: TwitchCreamBronze/TwitchCreamBronze-15.jpg
 categories: [ Oakley, Sunglasses, Twitch, Cream, Bronze, Polished ]
 featured: true
 comments: false 
