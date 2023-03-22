@@ -6,13 +6,14 @@ keywords: oakley, canteen, sunglasses, cream, bronze, polished
 date: '2023-03-12T09:00:00+00:00'
 permalink: Oakley-Twitch-Cream-Bronze
 image: TwitchCreamBronze/TwitchCreamBronze-15.jpg
-categories: [ Oakley, Sunglasses, Twitch, Cream, Bronze, Polished ]
-featured: true
+categories: [ Oakley, Sunglasses, Twitch, Cream, Bronze, Polished, Sold ]
+featured: false
 comments: false 
 ---
-[Oakley Twitch Cream Bronze 03-523 Sunglasses](https://www.ebay.com/itm/155450537001) These are a pair of new sunglasses with the original box. Red Oakley bag included.
 
-[You can purchase them via my eBay auction](https://www.ebay.com/itm/155450537001).
+## SOLD
+
+[Oakley Twitch Cream Bronze 03-523 Sunglasses](https://www.ebay.com/itm/155450537001) These are a pair of new sunglasses with the original box. Red Oakley bag included.
 
 These stunning sunglasses from Oakley are sure to turn heads and provide exceptional protection from the sun's rays. The Twitch Cream Bronze 03-523 model features a stylish cream-colored frame with bronze-tinted lenses that provide excellent clarity and contrast.
 

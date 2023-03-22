@@ -6,13 +6,14 @@ keywords: oakley, canteen, sunglasses, black, matte
 date: '2023-03-12T10:30:00+00:00'
 permalink: Oakley-Razrwire-NBT-Pewter
 image: oakleyrazrwirenbtpewter/oakleyrazrwirenbtpewter-4.jpg
-categories: [ Oakley, Sunglasses, Razrwire, Pewter, NBT, Black Iridium lens ]
-featured: true
+categories: [ Oakley, Sunglasses, Razrwire, Pewter, NBT, Black Iridium lens, Sold ]
+featured: false
 comments: false 
 ---
-[Oakley Razrwire NBT Pewter 05-836 Sunglasses](https://www.ebay.com/itm/155450555518) These are two pair of new sunglasses with one original box. Two Oakley bags included.
 
-[You can purchase them via my eBay auction](https://www.ebay.com/itm/155450555518).
+## SOLD
+
+[Oakley Razrwire NBT Pewter 05-836 Sunglasses](https://www.ebay.com/itm/155450555518) These are two pair of new sunglasses with one original box. Two Oakley bags included.
 
 Black Iridium lens
 

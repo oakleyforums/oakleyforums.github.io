@@ -6,13 +6,15 @@ keywords: oakley, big taco, sunglasses, rootbeer
 date: '2023-03-06T11:00:00+00:00'
 permalink: oakley-big-taco-sunglasses
 image: bigtaco/bigtaco-1.jpg
-categories: [ Oakley, Sunglasses, Big Taco ]
-featured: true
+categories: [ Oakley, Sunglasses, Big Taco, Sold ]
+featured: false
 comments: false 
 ---
+
+## SOLD
+
 [Oakley Big Taco Sunglasses Polished Rootbeer Tungsten Iridium Lens](https://www.ebay.com/itm/155441459975) These are a pair of new sunglasses with the original box.
 
-[You can purchase them via my eBay auction](https://www.ebay.com/itm/155441459975).
 
 Introducing Oakley Big Taco Sunglasses - the ultimate eyewear for those who crave adventure, style, and functionality. Designed with a bold frame and sleek lines, these sunglasses offer a unique blend of fashion and performance. Whether you are hitting the beach, going for a run, or just lounging in the sun, Oakley Big Taco sunglasses have got you covered.
 
