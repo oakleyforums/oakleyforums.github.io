@@ -6,13 +6,12 @@ keywords: oakley, dartboard, sunglasses, clear, white, camo
 date: '2023-03-07T10:00:00+00:00'
 permalink: oakley-dartboard-white-camo
 image: dartboardwhite/dartboardwhite-10.jpg
-categories: [ Oakley, Sunglasses, Dartboard, White, Clear, Camo ]
+categories: [ Oakley, Sunglasses, Dartboard, White, Clear, Camo, Sold]
 featured: true
 comments: false 
 ---
-[Oakley Dartboard White Camo w/ Ti Clear Lens](https://www.ebay.com/itm/155476094674) These are a pair of new sunglasses with the original box. Used oakley bag included.
-
-[You can purchase them via my eBay auction](https://www.ebay.com/itm/155476094674).
+## Sold
+[Oakley Dartboard White Camo w/ Ti Clear Lens](#) These are a pair of new sunglasses with the original box. Used oakley bag included.
 
 The Oakley Dartboard White Camo w/ TI Clear Lens glasses are the perfect combination of style and functionality. These glasses are designed to meet the needs of outdoor enthusiasts who demand the best when it comes to their eyewear.
 
