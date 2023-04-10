@@ -6,13 +6,12 @@ keywords: oakley, sunglasses, marketing, polarized
 date: '2023-03-31T10:00:15+00:00'
 permalink: Oakley-Polarized-Marketing-Sign
 image: polarizedmarketing/polarizedmarketing-1.jpg
-categories: [ Oakley, Sunglasses, Polarized, Marketing]
-featured: true
+categories: [ Oakley, Sunglasses, Polarized, Marketing, Sold]
+featured: false
 comments: false 
 ---
-[Oakley Polarized Marketing Sign](https://www.ebay.com/itm/155481365407) 
-
-[You can purchase via my eBay auction](https://www.ebay.com/itm/155481365407).
+## Sold 
+Oakley Polarized Marketing Sign 
 
 This marketing sign was most likely used to demonstrate how polarized lenses change what you can see. 
 
