@@ -5,8 +5,8 @@
     <description>Clearing out my Oakley Collection</description>
     <link>https://www.OakleyForums.com/</link>
     <atom:link href="https://www.OakleyForums.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Apr 2023 15:04:52 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Apr 2023 15:04:52 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Apr 2023 01:19:23 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Apr 2023 01:19:23 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -82,9 +82,8 @@
     
       <item>
         <title>Oakley Polarized Marketing Sign</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.ebay.com/itm/155481365407&quot;&gt;Oakley Polarized Marketing Sign&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.ebay.com/itm/155481365407&quot;&gt;You can purchase via my eBay auction&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;h2 id=&quot;sold&quot;&gt;Sold&lt;/h2&gt;
+&lt;p&gt;Oakley Polarized Marketing Sign&lt;/p&gt;
 
 &lt;p&gt;This marketing sign was most likely used to demonstrate how polarized lenses change what you can see.&lt;/p&gt;
 
@@ -110,6 +109,8 @@
         <category>Polarized</category>
         
         <category>Marketing</category>
+        
+        <category>Sold</category>
         
       </item>
     
