@@ -6,13 +6,12 @@ keywords: oakley, montefrio, tortoise, olive, sunglasses,
 date: '2023-04-06T10:00:15+00:00'
 permalink: oakley-montefrio-olive-tortoise
 image: montefrio/montefrio-3.jpg
-categories: [ Oakley, Sunglasses, Montefrio, Tortoise, Olive ]
+categories: [ Oakley, Sunglasses, Montefrio, Tortoise, Olive, Sold ]
 featured: true
 comments: false 
 ---
-[Oakley Montefrio Olive Tortoise Grey Lens](https://www.ebay.com/itm/155489722972) These are a pair of glasses in the original box, opened but never used!
-
-[You can purchase them via my eBay auction](https://www.ebay.com/itm/155489722972).
+## Sold 
+Oakley Montefrio Olive Tortoise Sunglasses
 
 ### AI Generated content below: 
 
